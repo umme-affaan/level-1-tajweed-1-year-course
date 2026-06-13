@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Level-1 Tajweed Notes</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <button id="tocToggle" class="ghost-button choose-button mobile-only" aria-label="Open notes list">
+      ☰ Choose Note
+    </button>
+
+    <div class="brand">
+      <span class="brand-title">Level-1 Tajweed Notes 1 year course</span>
+      <span id="currentNoteName" class="brand-subtitle">Select a note</span>
+    </div>
+
+    <div class="toolbar" aria-label="PDF controls">
+      <button id="prevNoteBtn" class="toolbar-button desktop-control">← Note</button>
+      <button id="nextNoteBtn" class="toolbar-button desktop-control">Note →</button>
+
+      <span class="divider desktop-control"></span>
+
+      <button id="scrollModeBtn" class="toolbar-button desktop-control active">Scroll</button>
+      <button id="singleModeBtn" class="toolbar-button desktop-control">Single Page</button>
+
+      <span class="divider desktop-control"></span>
+
+      <button id="prevBtn" class="toolbar-button">← Page</button>
+      <label class="page-jump">
+        <span class="page-label-text">Page</span>
+        <input id="pageInput" type="number" min="1" value="1" />
+        <span id="totalPages">/ —</span>
+      </label>
+      <button id="nextBtn" class="toolbar-button">Page →</button>
+
+      <span class="divider desktop-control"></span>
+
+      <button id="zoomOutBtn" class="toolbar-button desktop-control">−</button>
+      <span id="zoomLabel" class="zoom-label desktop-control">Fit</span>
+      <button id="zoomInBtn" class="toolbar-button desktop-control">+</button>
+
+      <a id="downloadLink" class="download-link disabled" href="#" download>Download PDF</a>
+    </div>
+  </header>
+
+  <div id="overlay" class="overlay"></div>
+
+  <div class="layout">
+    <aside id="sidebar" class="sidebar">
+      <div class="sidebar-header">
+        <div>
+          <h2>Notes</h2>
+          <p>Choose a Tajweed note to open its PDF.</p>
+        </div>
+        <button id="closeSidebar" class="ghost-button mobile-only" aria-label="Close notes list">×</button>
+      </div>
+
+      <nav id="noteList" class="note-list" aria-label="Level-1 Tajweed notes list"></nav>
+    </aside>
+
+    <main id="viewer" class="viewer">
+      <button id="chooseAnotherBtn" class="mobile-back-button mobile-only">
+        ← Choose another note
+      </button>
+
+      <div id="status" class="status-card">
+        <strong>Level-1 Tajweed Notes</strong><br>
+        Select a note from the list to begin. Add your PDFs in the <code>files</code> folder, then update <code>notes.json</code> with the matching English file names.
+      </div>
+
+      <section id="pdfContainer" class="pdf-container" aria-label="PDF pages"></section>
+    </main>
+  </div>
+
+  <nav class="mobile-bottom-nav mobile-only" aria-label="Mobile navigation">
+    <button id="mobilePrevNoteBtn" class="bottom-nav-button">← Note</button>
+    <button id="mobileChooseBtn" class="bottom-nav-button primary">Notes</button>
+    <button id="mobileNextNoteBtn" class="bottom-nav-button">Note →</button>
+  </nav>
+
+  <script type="module" src="script.js"></script>
+</body>
+</html>

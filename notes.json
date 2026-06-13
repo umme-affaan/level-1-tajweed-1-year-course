@@ -1,0 +1,152 @@
+[
+  {
+    "number": 1,
+    "title": "Tajweed laghvi mane",
+    "urdu": "تجوید کے لغوی معنی",
+    "file": "files/01-tajweed-laghvi-mane.pdf"
+  },
+  {
+    "number": 2,
+    "title": "ILm e Tajweed kay usool",
+    "urdu": "علم تجوید کے اصول",
+    "file": "files/02-ILm-e-Tajweed-kay-usool.pdf"
+  },
+  {
+    "number": 3,
+    "title": "Fazeelat Ilm e tajweed ke usool",
+    "urdu": "فضیلت علم تجوید کے اصول",
+    "file": "files/03-fazeelat-ilm-e-tajweed-ke-usool.pdf"
+  },
+  {
+    "number": 4,
+    "title": "Hafs an Asim riwayah ke mutabiq Qur’an ka sanad",
+    "urdu": "حفص عن عاصم روایت کے مطابق کیآن کی سند",
+    "file": "files/04-Hafs-an-Asim.pdf"
+  },
+  {
+    "number": 5,
+    "title": "Tilawat kay aadab",
+    "urdu": "تلاوت کے آداب",
+    "file": "files/05-Tilawat-kay-aadab.pdf"
+  },
+  {
+    "number": 6,
+    "title": "Musalman ba-aitibaar-e-tilawat",
+    "urdu": "مسلمان بے ایتیبارے تلاوت",
+    "file": "files/06-Musalman-ba-aitibaar-e-tilawat.pdf"
+  },
+  {
+    "number": 7,
+    "title": "Quran kay huqooq",
+    "urdu": "قرآن کے حقوق",
+    "file": "files/07-Quran-kay-huqooq.pdf"
+  },
+  {
+    "number": 8,
+    "title": "Tilawath kay Maratib",
+    "urdu": "تلاوت کے مراتب",
+    "file": "files/08-Tilawath-kay-Maratib.pdf"
+  },
+  {
+    "number": 9,
+    "title": "Lahen",
+    "urdu": "لہن",
+    "file": "files/09-Lahen.pdf"
+  },
+  {
+    "number": 10,
+    "title": "Harkaat",
+    "urdu": "حرکات",
+    "file": "files/10-Harkaat.pdf"
+  },
+  {
+    "number": 11,
+    "title": "Sifar musadeer",
+    "urdu": "صفر مستدیر",
+    "file": "files/11-sifar-musadeer.pdf"
+  },
+  {
+    "number": 12,
+    "title": "Sifar Mutateel, Saba alifat",
+    "urdu": "صفر مستطیل، سبع الفات",
+    "file": "files/12-sifar-mutateel-saba-alifat.pdf"
+  },
+  {
+    "number": 13,
+    "title": "Huroof e shamsi, huroof e qamri",
+    "urdu": "حروف شمسی، حروف قمری",
+    "file": "files/13-huroof-e-shamsi-huroof-e-qamri.pdf"
+  },
+  {
+    "number": 14,
+    "title": "Mustalahatul zabt",
+    "urdu": "مصطلحات الضبط",
+    "file": "files/14-mustalahatul-zabt.pdf"
+  },
+  {
+    "number": 15,
+    "title": "Wow leen, ya leen",
+    "urdu": "واو لین، یا لین",
+    "file": "files/15-wow-leen-ya-leen.pdf"
+  },
+  {
+    "number": 16,
+    "title": "Waqf ke qaide",
+    "urdu": "وقف کے قاعدے",
+    "file": "files/16-waqf-ke-qaide.pdf"
+  },
+  {
+    "number": 17,
+    "title": "Alamaat e wuqoof",
+    "urdu": "علامات وقوف",
+    "file": "files/17-alamaat-e-wuqoof.pdf"
+  },
+  {
+    "number": 18,
+    "title": "Huroof e sagheera",
+    "urdu": "حروف صغیرہ",
+    "file": "files/18-huroof-e-sagheera.pdf"
+  },
+  {
+    "number": 19,
+    "title": "Tashdeed",
+    "urdu": "تشدید",
+    "file": "files/19-tashdeed.pdf"
+  },
+  {
+    "number": 20,
+    "title": "Noon lafziya",
+    "urdu": "نون لفظیہ",
+    "file": "files/20-noon-lafziya.pdf"
+  },
+  {
+    "number": 21,
+    "title": "Tanveen aur noon saakin ke Ahekamat",
+    "urdu": "تنوین اور نون ساکن کے احکامات",
+    "file": "files/21-tanveen-aur-noon-saakin-ke-ahekamat.pdf"
+  },
+  {
+    "number": 22,
+    "title": "Meem Saakin ke Ahekamath",
+    "urdu": "میم ساکن کے احکامات",
+    "file": "files/22-meem-saakin-ke-ahekamath.pdf"
+  },
+  {
+    "number": 23,
+    "title": "Ghunna ke Maratib",
+    "urdu": "غنہ کے مراتب",
+    "file": "files/23-ghunna-ke-maratib.pdf"
+  },
+  {
+    "number": 24,
+    "title": "Mudood",
+    "urdu": "مدود",
+    "file": "files/24-mudood.pdf"
+  },
+  {
+    "number": 25,
+    "title": "Huroof e muqatta'at",
+    "urdu": "حروف مقطعات",
+    "file": "files/25-huroof-e-muqattaat.pdf"
+  }
+]

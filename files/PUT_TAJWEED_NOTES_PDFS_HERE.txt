@@ -1,0 +1,6 @@
+Put your Tajweed notes PDFs in this folder.
+
+Then update notes.json so each "file" value matches the exact PDF filename.
+
+Example:
+files/01-tajweed-laghvi-mane.pdf
