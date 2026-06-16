@@ -79,9 +79,9 @@
   },
   {
     "number": 13,
-    "title": "Huroof e shamsi, huroof e qamri",
-    "urdu": "حروف شمسی، حروف قمری",
-    "file": "files/13-huroof-e-shamsi-huroof-e-qamri.pdf"
+    "title": "Makharij Muhaqaq , Muqaddar",
+    "urdu": "مخرج محقق ، مقدر",
+    "file": "files/13-Makharij-Muhaqaq-Muqaddar.pdf"
   },
   {
     "number": 14,
@@ -154,5 +154,11 @@
     "title": "Huroof e muqatta'at",
     "urdu": "حروف مقطعات",
     "file": "files/25-huroof-e-muqattaat.pdf"
+  }
+  {
+    "number": 26,
+    "title": "title",
+    "urdu": "حروف مقطعات",
+    "file": "files/26-title.pdf"
   }
 ]
